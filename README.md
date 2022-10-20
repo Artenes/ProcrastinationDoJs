@@ -13,3 +13,5 @@ Some time has passed
 ![It is unusable](prints/printC.png)
 
 The app is unusable (like your life)
+
+[Checkout the JavaFx counterpart here](https://github.com/Artenes/ProcrastinationDoJavaFx).
