@@ -2,6 +2,12 @@
 
 A joke js todo app where you add items to procrastinate and as the days goes by their size increases until the app is unusable.
 
+# Running
+
+Just open index.html in your browser.
+
+# Application
+
 ![Default State](prints/printA.png)
 
 When you are starting out
